@@ -1,0 +1,8 @@
+{
+  "name": "Remix Udit\u0027s AI",
+  "description": "Your AI Assistant for Everything. Think Smarter. Create Faster.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
